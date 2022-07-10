@@ -7,10 +7,10 @@
 ## PROPRIEDADES DE FONT
 
 ### font-size: *px, em, rem, pt, %*;
- Controla o tamanho da fonte
+    Controla o tamanho da fonte
 
 ### font-weight: *0 à 1000*;    
- (Depende da fonte) Controla o peso da fonte
+    (Depende da fonte) Controla o peso da fonte
 
 ### font-style: *normal, italic, oblique*;  
  Modifica o estilo básico da fonte
