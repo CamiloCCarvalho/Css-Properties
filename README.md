@@ -1,5 +1,6 @@
 <h1 align="center"> CSS PROPERTIES </h1>
  <p align="justify">Uma breve lista de propriedades CSS, com seus possiveis pares de valores e uma breve descrição de como modificam os elementos</p>
+ <br>
 
 
 ## PROPRIEDADES DE FONT
