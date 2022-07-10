@@ -4,10 +4,10 @@
  <br>
 
 
-## PROPRIEDADES DE FONT
-
-### font-size: *px, em, rem, pt, %*;
-    Controla o tamanho da fonte
+## PROPRIEDADES DE FONT:
+propriedade|valor|descrição
+| -------- | -------- | -------- |
+font-size:| *px, em, rem, pt, %*;|Controla o tamanho da fonte
 
 ### font-weight: *0 à 1000*;    
     (Depende da fonte) Controla o peso da fonte
