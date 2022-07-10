@@ -30,3 +30,12 @@ color:|*f0f;*|Hexadecimal shorthand #RGB
 color:|*rgb(255, 0, 255);*| Valor RGB de 0 a 255 rgb(R, G, B)
 color:|*#ff00ff00;*|Hexadecimal com opacidade (alpha) #RRGGBBAA
 color:|*rgba(255, 0, 255, 0.0);*|Valor RGB com opacidade
+
+## PROPRIEDADES DE BACKGROUND(PLANO DE FUNDO):
+propriedade|valores|descrição
+| -------- | -------- | -------- |
+border:|*espessura estilo cor;*|Coloca borda em todo elemento
+border-top:|*espessura estilo cor;*| Coloca borda na extremidade superior do elemento
+border-right:|*espessura estilo cor;*|Coloca borda na extremidade direita do elemento
+border-bottom:|*espessura estilo cor;*|Coloca uma borda na extremidade inferior do elemento
+border-left:|*espessura estilo cor;*|Coloca uma borda na extremidade esquerda do elemento
