@@ -70,3 +70,9 @@ propriedade|valores|descrição
 | -------- | -------- | -------- |
 box-sizing:|*border-box, content-box;*|Define qual caixa do box-model será usada como referência para colocar propriedades de tamanho
 
+## PROPRIEDADE OVERFLOW:
+propriedade|valores|descrição
+| -------- | -------- | -------- |
+overflow:|*visible, hidden, scroll, auto;*|Controla o comportamento dos elementos internos que "vazam" do espaço
+overflow-x:|*visible, hidden, scroll, auto;*|Controla o comportamento dos elementos internos que "vazam" do espaço horizontal definido pela tag mãe
+overflow-y:|*visible, hidden, scroll, auto;*|Controla o comportamento dos elementos internos que "vazam" do espaço vertical definido pela tag mãe
