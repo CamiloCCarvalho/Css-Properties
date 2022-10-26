@@ -1,4 +1,11 @@
+<p align="center">
+ <a href="w3">
+  <img src="https://user-images.githubusercontent.com/106208340/197929811-a365caa9-e697-4e72-81e0-314f8167e5b7.png">
+ </a>
+</p>
+
 <h1 align="center"> CSS PROPERTIES </h1>
+
  <p align="justify">Uma breve lista de propriedades CSS, com seus possiveis pares de valores e uma breve descrição de como modificam os elementos</p>
  <p align="right">Em desenvolvimento :warning:</p> 
  <br>
